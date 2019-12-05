@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: 28f8d6b6f8f4ab344831043a668fe70f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: action_low_MPX3_low:action_low_Cylinder_182
+    100002: barrel_low_MPX3_low:barrel_low_Cylinder_195
+    100004: buttons_low_MPX3_low:buttons_low_Cylinder_217
+    100006: eject_low_MPX3_low:eject_low_Cylinder_215
+    100008: handle_low_MPX3_low:handle_low_Cylinder_183
+    100010: knob_low_MPX3_low:knob_low_Cylinder_001
+    100012: mag_low_MPX3_low:mag_low_Cylinder_186
+    100014: //RootNode
+    100016: pin_low_MPX3_low:pin_low_Cylinder_185
+    100018: rail_low_MPX3_low:rail_low_Cylinder_004
+    100020: reciever_low_MPX3_low:reciever_low_Cylinder_197
+    100022: shroud_low
+    100024: sights_low_MPX3_low:sights_low_Cylinder_206
+    100026: stock_low_MPX3_low:stock_low_Cylinder_188
+    400000: action_low_MPX3_low:action_low_Cylinder_182
+    400002: barrel_low_MPX3_low:barrel_low_Cylinder_195
+    400004: buttons_low_MPX3_low:buttons_low_Cylinder_217
+    400006: eject_low_MPX3_low:eject_low_Cylinder_215
+    400008: handle_low_MPX3_low:handle_low_Cylinder_183
+    400010: knob_low_MPX3_low:knob_low_Cylinder_001
+    400012: mag_low_MPX3_low:mag_low_Cylinder_186
+    400014: //RootNode
+    400016: pin_low_MPX3_low:pin_low_Cylinder_185
+    400018: rail_low_MPX3_low:rail_low_Cylinder_004
+    400020: reciever_low_MPX3_low:reciever_low_Cylinder_197
+    400022: shroud_low
+    400024: sights_low_MPX3_low:sights_low_Cylinder_206
+    400026: stock_low_MPX3_low:stock_low_Cylinder_188
+    2100000: action_low_MPX3_low_action_low_Cylinder_182Mat
+    2100002: barrel_low_MPX3_low_barrel_low_Cylinder_195Mat
+    2100004: buttons_low_MPX3_low_buttons_low_Cylinder_217Mat
+    2100006: eject_low_MPX3_low_eject_low_Cylinder_215Mat
+    2100008: handle_low_MPX3_low_handle_low_Cylinder_183Mat
+    2100010: knob_low_MPX3_low_knob_low_Cylinder_001Mat
+    2100012: mag_low_MPX3_low_mag_low_Cylinder_186Mat
+    2100014: pin_low_MPX3_low_pin_low_Cylinder_185Mat
+    2100016: rail_low_MPX3_low_rail_low_Cylinder_004Mat
+    2100018: reciever_low_MPX3_low_reciever_low_Cylinder_197Mat
+    2100020: shroud_lowMat
+    2100022: sights_low_MPX3_low_sights_low_Cylinder_206Mat
+    2100024: stock_low_MPX3_low_stock_low_Cylinder_188Mat
+    2300000: action_low_MPX3_low:action_low_Cylinder_182
+    2300002: barrel_low_MPX3_low:barrel_low_Cylinder_195
+    2300004: buttons_low_MPX3_low:buttons_low_Cylinder_217
+    2300006: eject_low_MPX3_low:eject_low_Cylinder_215
+    2300008: handle_low_MPX3_low:handle_low_Cylinder_183
+    2300010: knob_low_MPX3_low:knob_low_Cylinder_001
+    2300012: mag_low_MPX3_low:mag_low_Cylinder_186
+    2300014: pin_low_MPX3_low:pin_low_Cylinder_185
+    2300016: rail_low_MPX3_low:rail_low_Cylinder_004
+    2300018: reciever_low_MPX3_low:reciever_low_Cylinder_197
+    2300020: shroud_low
+    2300022: sights_low_MPX3_low:sights_low_Cylinder_206
+    2300024: stock_low_MPX3_low:stock_low_Cylinder_188
+    3300000: action_low_MPX3_low:action_low_Cylinder_182
+    3300002: barrel_low_MPX3_low:barrel_low_Cylinder_195
+    3300004: buttons_low_MPX3_low:buttons_low_Cylinder_217
+    3300006: eject_low_MPX3_low:eject_low_Cylinder_215
+    3300008: handle_low_MPX3_low:handle_low_Cylinder_183
+    3300010: knob_low_MPX3_low:knob_low_Cylinder_001
+    3300012: mag_low_MPX3_low:mag_low_Cylinder_186
+    3300014: pin_low_MPX3_low:pin_low_Cylinder_185
+    3300016: rail_low_MPX3_low:rail_low_Cylinder_004
+    3300018: reciever_low_MPX3_low:reciever_low_Cylinder_197
+    3300020: shroud_low
+    3300022: sights_low_MPX3_low:sights_low_Cylinder_206
+    3300024: stock_low_MPX3_low:stock_low_Cylinder_188
+    4300000: action_low_MPX3_low:action_low_Cylinder_182
+    4300002: barrel_low_MPX3_low:barrel_low_Cylinder_195
+    4300004: buttons_low_MPX3_low:buttons_low_Cylinder_217
+    4300006: eject_low_MPX3_low:eject_low_Cylinder_215
+    4300008: handle_low_MPX3_low:handle_low_Cylinder_183
+    4300010: knob_low_MPX3_low:knob_low_Cylinder_001
+    4300012: mag_low_MPX3_low:mag_low_Cylinder_186
+    4300014: pin_low_MPX3_low:pin_low_Cylinder_185
+    4300016: rail_low_MPX3_low:rail_low_Cylinder_004
+    4300018: reciever_low_MPX3_low:reciever_low_Cylinder_197
+    4300020: shroud_low
+    4300022: sights_low_MPX3_low:sights_low_Cylinder_206
+    4300024: stock_low_MPX3_low:stock_low_Cylinder_188
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 30
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
